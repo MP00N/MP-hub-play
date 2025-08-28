@@ -226,6 +226,7 @@ AdaptiveGridUI:AddIconButton({
     Text = "有点煳",
     Color = Color3.fromRGB(70, 150, 70),
     Callback = function()
+    play=91
     IP = "rbxassetid://113786259584052"
         print("海豹")
     end
@@ -236,6 +237,7 @@ AdaptiveGridUI:AddIconButton({
     Text = "不知道",
     Color = Color3.fromRGB(60, 120, 200),
     Callback = function()
+    play=91
     IP = "rbxassetid://130923340937036"
         print("打开设置")
     end
@@ -246,6 +248,7 @@ AdaptiveGridUI:AddIconButton({
     Text = "不知道",
     Color = Color3.fromRGB(60, 120, 200),
     Callback = function()
+    play=91
     IP = "rbxassetid://98446137628032"
         print("打开设置")
     end
